@@ -1,0 +1,74 @@
+body {
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+
+#background {
+    position: absolute;
+    top: 300px;
+    left: 800px;
+    border: 10px rgb(255, 255, 255) solid;
+}
+
+.text-box {
+    color: white;
+    border: 3px rgb(255, 255, 255) solid;
+    margin: 0;
+    position: absolute;
+    top: 900px;
+    left: 800px;
+    width: 894px;
+    height: 100px;
+    padding: 10px;
+    font-size: 30px;
+    display: none;
+}
+
+.show-text {
+    display: block;
+}
+
+.MAYHEM {
+    color: rgb(235, 93, 117);
+    background-color: rgb(150, 255, 255);
+}
+
+.jewel {
+    position: absolute;
+    width: 50px;
+}
+
+#jewel-one {
+    left: 831px;
+    top: 621px;
+}
+
+#jewel-two {
+    left: 931px;
+    top: 521px;
+}
+
+#jewel-three {
+    left: 1131px;
+    top: 421px;
+}
+
+#jewel-four {
+    left: 1331px;
+    top: 721px;
+}
+
+#jewel-five {
+    left: 1531px;
+    top: 351px;
+}
+
+#jewel-six {
+    left: 1331px;
+    top: 590px;
+}
+
+#jewel-seven {
+    left: 1631px;
+    top: 690px;
+}
